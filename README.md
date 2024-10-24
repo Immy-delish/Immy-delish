@@ -20,7 +20,7 @@ Here are some technologies and tools I frequently use:
 
 ## 📫 Let's Connect
 I'm always open to discussing new projects, job opportunities, or potential collaborations. Feel free to connect with me:
-- [LinkedIn](in/immaculate-atim-aa5985212)
+- [LinkedIn](linkedin.com/in/immaculate-atim-aa5985212)
 - [Email](mailto:immaculateatim56@gmail.com)
 
 Thank you for visiting my me! 😊
