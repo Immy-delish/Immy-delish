@@ -8,7 +8,7 @@ I'm a dedicated **Software Engineer** with a **Bachelor's degree in Software Eng
 - 🎓 I graduated with a **Bachelor's degree in Software Engineering**.
 - 👩‍💻 I'm currently focused on **web development** and **cloud computing**, and I'm always exploring new technologies.
 - 🌱 I’m learning **cloud computing** and **Software Development**.
-- 💼 I’m open to collaborations in software development, cloud omputing, and machine learning.
+- 💼 I’m open to collaborations in software development, cloud computing, and machine learning.
 - ⚡ Fun fact: Wake me up at 3:00am to help you debug your errors because I am having the same errors but I need your company to fix them😂😂 
 ## 🛠️ My Skills
 Here are some technologies and tools I frequently use:
@@ -17,9 +17,6 @@ Here are some technologies and tools I frequently use:
 - **Tools**: Git, Visual Studio Code, Docker, 
 - **Databases**: MySQL
 - **Cloud**: AWS (learning), GCP
-
-## 📈 GitHub Stats
-![Immaculate's GitHub Stats](https://github-readme-stats.vercel.app/api?Immy-delish&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 I'm always open to discussing new projects, job opportunities, or potential collaborations. Feel free to connect with me:
